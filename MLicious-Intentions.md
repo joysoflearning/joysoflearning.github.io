@@ -1,0 +1,106 @@
+---
+layout: post
+title: "MLicious Intentions : An intro to Machine Learning"
+date: 2016-06-01 17:23:20 +200
+author: Sayash Kapoor
+website: <website-if-any>
+category:
+tags:
+- machine learning
+- artificial intelligence
+- introduction
+- coursera
+- caltech
+- data science
+- data
+- science
+- machine
+- learning
+- steven wilson6/1/2016 1:43:48 PM 
+image:
+  url: <http://2s7gjr373w3x22jf92z99mgm5w.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/tree-of-awesome_1.png>
+---
+
+*“Most people are far too much occupied with themselves to be malicious.”*
+― Friedrich Nietzsche, Human, All Too Human
+
+This is an article for those who are starting out, or thinking of exploring Machine Learning. I am a novice myself, O experienced-ML-veteran-reading-this-article-just-by-chance, so please excuse any follies I may have made. My intentions weren’t malicious.
+
+*(Also, please let me know if there are any issues)*
+
+Throughout this article, I’ll be using many sources, and (hopefully) all of them will be given their place at the end. In case I miss something, (cause I’m only human), please let me know.
+
+#The compulsory first question: What is Machine Learning?
+Let’s start with the high-school method of making definitions of terms by breaking them down into their components. “Machine”, according to google means “an apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task.”
+
+Learning, on the other hand refers to “the acquisition of knowledge or skills through study, experience, or being taught”. 
+
+The essence of Machine Learning can be captured perfectly by these two definitions. While talking about Machine Learning, we refer to “Teaching” a computer stuff using data rather than explicitly formulating an algorithm to get an answer. How do you teach the computer to do stuff using data? By explicitly formulating algorithms to get answers. Contradiction? Well, the difference between the 2 sentences is the algorithm they’re referring to. While normal algorithms use the input, do stuff and produce the output, Machine Learning algorithms are different in the sense that they use lots of data to first “train” themselves to produce outputs. ML algorithms are unlike traditional algorithms because they rely on something called “training data” to somehow reach a close approximation of the answer we’re expecting to get on new data.
+
+Say for example you get an image and want the computer to tell if it is an image of a face. Making a traditional algorithm, one that takes this image, and outputs a yes or no, is pretty difficult. The Machine Learning analogy to this problem would be inputting lots of photos which we know are images of faces and labelling them as “yes” and also lots of photos which aren’t images of faces, and label them as “no”. This dataset would be our “training data” and our algorithm would learn what an image of a face is like using this dataset.
+
+Based on this, when it is given an image, it would be able to tell if it is an image or not. How it does that is what the Machine Learning algorithm is all about.
+ 
+So basically, Machine Learning is a field that uses data to learn underlying patterns from it and draw conclusions.
+
+#Why Machine Learning?
+As late as 1985, there weren’t any commercial applications for Machine Learning (Yes, that’s a year after you saw Arnold Schwarzenegger semi-naked in a movie about machines taking over the world. Some vision James Cameron had, huh?) And today it is everywhere. From Alexa and Cortana displacing assistants throughout the world to Siri making us laugh with her answers (Okay, maybe Siri isn’t the best example here), machine learning has become the focus of tech companies throughout the world. Anyone who saw, or read about this year’s Google I/O would know the importance google is giving to Machine Learning and how ML is being incorporated into most of its products. So yeah, basically ML is the hot new thing in town.
+ 
+This has happened for primarily two reasons: increase in the amount of data we have and can use, and the computing performance, which has grown exponentially, almost tracking Gordon Moore's very famous *law*. This in turn means that while you would have required lots of time and computing power to run a neural network just 15 years back, today you can run it on your computer and in a matter of minutes.
+
+And this powers Machine learning to be at the forefront of several industries in the coming future – not just consumer tech, as evidenced by google, Facebook and amazon jumping into ML, but also any field having data and an underlying pattern to the data – meaning banking, insurance and credit card industries are enterprise arenas poised to benefit from a ripe machine learning boom.
+
+So basically, more data and more computing power = machine learning boom
+And this boom leads to more jobs for everyone in this field – yay!
+
+#How Machine Learning?
+Now that I have convinced you that Machine Learning is the best thing since sliced bread, how do you get into it? 
+The best way (I feel) for getting started with Machine Learning is through an online course. There are some pretty good courses available, from top universities throughout the world. Which one you start out with depends on your mathematical maturity (did I mention ML is a very maths heavy field?) and the amount of time you want to dedicate to it per week.
+
+The two best (based on online consensus and personal experience) courses for an introduction to Machine Learning are :
+###[Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) by (then) Stanford professor Andrew Ng
+*(BTW, please listen to the correct pronunciation of his name [here](https://www.youtube.com/watch?v=ws-glvcXJSo) and* ***don’t*** *call him Andrew 'N''G')*
+
+This is awesome beginner level course on machine learning. It will seem to be a little low on the maths component, so that it has lower pre-requisites, however it excels as an intro course by giving a general idea about all fields. It also has an implementation component, with weekly assignments in MATLAB. 
+
+*Weekly effort : ~6 hrs*
+###[Learning from Data](https://work.caltech.edu/telecourse.html) by Caltech Professor Yaser Abu-Mostafa
+*(the same guy who co-founded NIPS, a major machine learning conference)*
+
+This is more rigorous, and for the more mathematically-inclined, a more enjoyable course. Also, the assignments are more time-taking, since they use the original Caltech assignments and not watered down versions (like the Andrew Ng course). 
+
+*Weekly effort: ~8-10  hrs*
+
+Overall, if you have the time to, I’d recommend doing both of these courses, and in the given order. Their content and approach is different enough to justify spending tine on both of them, and it leads to solidification of concepts.
+
+Once you’re done with the courses, you have 2 options – for those of you more interested in implementing ML and the applicaton part of it, you can go to [kaggle](https://www.kaggle.com/). A short description for kaggle would be Codechef for Machine Learning. Start out with the “knowledge” questions – where you can practice and get the hang of stuff, and then move on to the active ongoing competitions.
+
+In case you happen to be more mathematically inclined, you can explore the various sub-fields and related fields of Machine learning, like [Optimization](http://web.stanford.edu/class/ee364a/), and also other, more specific courses like [Convoulutional Neural Networks](http://cs231n.stanford.edu/).
+
+Which brings us to the most interesting part of this article: acknowledgements!
+
+1. [Andrew Ng](http://www.andrewng.org/) for making his awesome course freely available
+
+2. [Yaser Abu-Mostafa](https://work.caltech.edu/), also for making his awesome course freely available, that too, with all undiluted assignments.
+
+3. Tom M. Mitchell, for his [article](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) on the discipline of machine learning
+
+4. Wikipedia for being there with me in emotionally tough times
+
+With that, I’ll bid you farewell, O dear reader. Thanks for reading. 
+
+You can connect with me on:
+
++ Twitter (@ksayash) – never
+
++ Facebook – rarely
+
++ IITK Webmail(sayash@) – always
+
+
+
+
+
+
+
+
