@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Learning</title>
-    <link>https://teamworkandcreativity.org/categories/</link>
+    <link>https://joysoflearning.github.io/categories/</link>
     <description>Recent content in Categories on Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
     
-	<atom:link href="https://teamworkandcreativity.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joysoflearning.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://teamworkandcreativity.org/categories/</link>
+      <link>https://joysoflearning.github.io/categories/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://teamworkandcreativity.org/categories/</guid>
+      <guid>https://joysoflearning.github.io/categories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>https://teamworkandcreativity.org/categories/code/</link>
+      <link>https://joysoflearning.github.io/categories/code/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://teamworkandcreativity.org/categories/code/</guid>
+      <guid>https://joysoflearning.github.io/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://teamworkandcreativity.org/categories/photography/</link>
+      <link>https://joysoflearning.github.io/categories/photography/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://teamworkandcreativity.org/categories/photography/</guid>
+      <guid>https://joysoflearning.github.io/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Problem Design</title>
-      <link>https://teamworkandcreativity.org/categories/problem-design/</link>
+      <link>https://joysoflearning.github.io/categories/problem-design/</link>
       <pubDate>Mon, 08 Jan 2018 19:41:01 +0530</pubDate>
       
-      <guid>https://teamworkandcreativity.org/categories/problem-design/</guid>
+      <guid>https://joysoflearning.github.io/categories/problem-design/</guid>
       <description></description>
     </item>
     
