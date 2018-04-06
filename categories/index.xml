@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Learning</title>
+    <title>Learning</title>
     <link>https://joysoflearning.github.io/categories/</link>
-    <description>Recent content in Categories on Learning</description>
+    <description>Recent content on Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
@@ -12,39 +12,13 @@
     
     
     <item>
-      <title></title>
-      <link>https://joysoflearning.github.io/categories/</link>
+      <title>Another Awesome Post</title>
+      <link>https://joysoflearning.github.io/post/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://joysoflearning.github.io/categories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>https://joysoflearning.github.io/categories/code/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://joysoflearning.github.io/categories/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>https://joysoflearning.github.io/categories/photography/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://joysoflearning.github.io/categories/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Problem Design</title>
-      <link>https://joysoflearning.github.io/categories/problem-design/</link>
-      <pubDate>Mon, 08 Jan 2018 19:41:01 +0530</pubDate>
-      
-      <guid>https://joysoflearning.github.io/categories/problem-design/</guid>
-      <description></description>
+      <guid>https://joysoflearning.github.io/post/work3/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
     </item>
     
   </channel>
