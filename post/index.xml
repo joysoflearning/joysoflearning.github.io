@@ -1,27 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sayash Kapoor</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Sayash Kapoor</description>
+    <title>Posts on Learning</title>
+    <link>https://teamworkandcreativity.org/post/</link>
+    <description>Recent content in Posts on Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://teamworkandcreativity.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Environmental Solution:                        Creative Problem Solving through Teamwork</title>
+      <link>https://teamworkandcreativity.org/post/work2/</link>
+      <pubDate>Mon, 08 Jan 2018 19:41:01 +0530</pubDate>
       
-      <guid>/post/getting-started/</guid>
-      <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
-
-Key features:
- Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.</description>
+      <guid>https://teamworkandcreativity.org/post/work2/</guid>
+      <description>&lt;p&gt;Imaginons et cr&amp;eacute;ons des solutions li&amp;eacute;es &amp;agrave; l&amp;rsquo;environnement !
+Groups of 5 to 7 students create and then present an original performance about exploring the ocean and solving a real life water problem. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Another Awesome Post</title>
+      <link>https://teamworkandcreativity.org/post/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work3/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A post without an Image</title>
+      <link>https://teamworkandcreativity.org/post/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work4/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Totally Response Theme</title>
+      <link>https://teamworkandcreativity.org/post/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work5/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s combine our ideas</title>
+      <link>https://teamworkandcreativity.org/post/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work7/</guid>
+      <description>&lt;p&gt;Team members shared their machine designs and explored possible solutions. They questioned each other and took time to listen attentively to weigh options and feedback each other.In the end this team decided to retain the strong points of each design and COMBINE them into one big idea.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Post with lot of comments</title>
+      <link>https://teamworkandcreativity.org/post/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work8/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blogging is Fun and Worthwhile</title>
+      <link>https://teamworkandcreativity.org/post/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work9/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>https://teamworkandcreativity.org/post/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work10/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>https://teamworkandcreativity.org/post/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work11/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>https://teamworkandcreativity.org/post/work12/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work12/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 1</title>
+      <link>https://teamworkandcreativity.org/post/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://teamworkandcreativity.org/post/work1/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
     </item>
     
   </channel>
