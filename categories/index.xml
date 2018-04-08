@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Environmental Solutions</title>
+    <title>Learning</title>
     <link>https://www.joysoflearning.github.io/categories/</link>
-    <description>Recent content on Environmental Solutions</description>
+    <description>Recent content on Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.joysoflearning.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>100 cups: precious fresh water</title>
       <link>https://www.joysoflearning.github.io/post/work5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.joysoflearning.github.io/post/work5/</guid>
-      <description>&lt;p&gt;.
+      <description>&lt;p&gt;Even though our planet is called the blue planet, fresh water is a scarce respource.
 &lt;/p&gt;</description>
     </item>
     
