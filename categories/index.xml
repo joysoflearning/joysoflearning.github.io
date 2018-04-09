@@ -1,34 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning</title>
-    <link>https://www.joysoflearning.github.io/categories/</link>
-    <description>Recent content on Learning</description>
+    <title>Categories on Learning</title>
+    <link>https://joysoflearning.github.io/categories/</link>
+    <description>Recent content in Categories on Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.joysoflearning.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joysoflearning.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>100 cups: precious fresh water</title>
-      <link>https://www.joysoflearning.github.io/post/work5/</link>
+      <title></title>
+      <link>https://joysoflearning.github.io/categories/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.joysoflearning.github.io/post/work5/</guid>
-      <description>&lt;p&gt;Even though our planet is called the blue planet, fresh water is a scarce respource.
-&lt;/p&gt;</description>
+      <guid>https://joysoflearning.github.io/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>A Post with lot of comments</title>
-      <link>https://www.joysoflearning.github.io/post/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <title>Content</title>
+      <link>https://joysoflearning.github.io/categories/content/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.joysoflearning.github.io/post/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
+      <guid>https://joysoflearning.github.io/categories/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Design</title>
+      <link>https://joysoflearning.github.io/categories/problem-design/</link>
+      <pubDate>Mon, 08 Jan 2018 19:41:01 +0530</pubDate>
+      
+      <guid>https://joysoflearning.github.io/categories/problem-design/</guid>
+      <description></description>
     </item>
     
   </channel>
