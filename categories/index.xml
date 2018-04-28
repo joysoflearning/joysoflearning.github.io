@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate>
     
 	<atom:link href="https://joysoflearning.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title></title>
       <link>https://joysoflearning.github.io/categories/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>https://joysoflearning.github.io/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competencies</title>
+      <link>https://joysoflearning.github.io/categories/competencies/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://joysoflearning.github.io/categories/competencies/</guid>
       <description></description>
     </item>
     
