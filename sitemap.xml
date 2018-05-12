@@ -29,7 +29,6 @@
   
   <url>
     <loc>https://joysoflearning.github.io/post/6groupwork6/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url>
   
   <url>
@@ -84,13 +83,6 @@
   
   <url>
     <loc>https://joysoflearning.github.io/categories/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://joysoflearning.github.io/categories/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,6 +95,11 @@
   <url>
     <loc>https://joysoflearning.github.io/categories/content/</loc>
     <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joysoflearning.github.io/categories/global-competencies/</loc>
     <priority>0</priority>
   </url>
   
